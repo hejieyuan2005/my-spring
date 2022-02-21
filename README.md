@@ -1,4 +1,4 @@
-# 环境搭建：IntelliJ IDEA 2018.3 (Ultimate Edition)/ IntelliJ IDEA 2018.3 (Ultimate Edition) / Gradle 4.9
+﻿# 环境搭建：IntelliJ IDEA 2018.3 (Ultimate Edition)/ IntelliJ IDEA 2018.3 (Ultimate Edition) / Gradle 4.9/ spring version: 5.1.21.BUILD-SNAPSHOT
 
 
 # <img src="src/docs/asciidoc/images/spring-framework.png" width="80" height="80"> Spring Framework
